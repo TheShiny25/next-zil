@@ -1,0 +1,32 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "skipLibCheck": true,
+    "strict": false,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "baseUrl": ".",
+    "paths": {
+      "@components/*": ["src/components/*"],
+      "@partials/*": ["src/partials/*"],
+      "@contexts/*": ["src/contexts/*"],
+      "@hooks/*": ["src/hooks/*"],
+      "@lib/*": ["src/lib/*"],
+      "@pages/*": ["src/pages/*"],
+      "@css/*": ["src/css/*"],
+      "@svg/*": ["src/svg/*"],
+      "@public/*": ["public/*"],
+      "@zil/*": ["src/*"],
+    },
+    "allowSyntheticDefaultImports": true
+  },
+  "exclude": ["node_modules", "next"],
+  "include": ["**/*.js", "**/*.jsx"]
+}

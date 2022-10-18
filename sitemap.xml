@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://zil.global/</loc>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://zil.global/global</loc>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://zil.global/distribution</loc>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://zil.global/network</loc>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://zil.global/contact</loc>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://zil.global/jobs</loc>
+    <changefreq>daily</changefreq>
+  </url>
+</urlset>

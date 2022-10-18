@@ -1,0 +1,16 @@
+<svg fill="none" preserveAspectRatio="none" version="1.1" viewBox="0 0 1130 1110" xmlns="http://www.w3.org/2000/svg">
+ <g filter="url(#media-chat-light-b)">
+  <ellipse cx="565" cy="555" rx="365" ry="354.5" fill="url(#media-chat-light-a)" fill-opacity=".5"/>
+ </g>
+ <defs>
+  <filter id="media-chat-light-b" x="0" y=".5" width="1130" height="1109" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+   <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+   <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+   <feGaussianBlur result="effect1_foregroundBlur_2551:1092" stdDeviation="100"/>
+  </filter>
+  <linearGradient id="media-chat-light-a" x1="326.1" x2="837.59" y1="330.25" y2="369.48" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#5573FF" offset="0"/>
+   <stop stop-color="#FF7173" offset="1"/>
+  </linearGradient>
+ </defs>
+</svg>

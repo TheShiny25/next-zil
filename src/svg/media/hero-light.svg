@@ -1,0 +1,16 @@
+<svg fill="none" preserveAspectRatio="none" version="1.1" viewBox="0 0 866 615" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(55)" filter="url(#media-hero-light-b)">
+  <ellipse cx="378" cy="307.5" rx="233" ry="107.5" fill="url(#media-hero-light-a)"/>
+ </g>
+ <defs>
+  <filter id="media-hero-light-b" x="-55" y="0" width="866" height="615" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+   <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+   <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+   <feGaussianBlur result="effect1_foregroundBlur_2551:1093" stdDeviation="100"/>
+  </filter>
+  <linearGradient id="media-hero-light-a" x1="225.5" x2="545.59" y1="239.35" y2="291.02" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#5573FF" offset="0"/>
+   <stop stop-color="#FF7173" offset="1"/>
+  </linearGradient>
+ </defs>
+</svg>
